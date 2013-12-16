@@ -1,6 +1,17 @@
 BCatcher::Application.routes.draw do
+  resources :categories
+
+  resources :items
+
+  resources :users
+
   root to: 'welcome#index'
+
   get "welcome/index"
+  get "/signup" => "users#new"
+  get "/login" => "session#new"
+  post "/login" => "session#create"
+  get "/logout" => "session#destroy"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

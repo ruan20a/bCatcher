@@ -1,0 +1,40 @@
+%h1 Listing items
+
+%table
+  %tr
+    %th User
+    %th Category
+    %th Title
+    %th Source Url
+    %th Image Url
+    %th Price
+    %th Sale Price
+    %th Required Price
+    %th Size
+    %th Color
+    %th Notes
+    %th Is Change
+    %th Private
+
+  - @items.each do |item|
+    %tr
+      %td= item.user_id
+      %td= item.category_id
+      %td= item.title
+      %td= item.source_url
+      %td= item.image_url
+      %td= item.price
+      %td= item.sale_price
+      %td= item.required_price
+      %td= item.size
+      %td= item.color
+      %td= item.notes
+      %td= item.is_change
+      %td= item.is_private
+      %td= link_to 'Show', item
+      %td= link_to 'Edit', edit_item_path(item)
+      %td= link_to 'Destroy', item, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Item', new_item_path

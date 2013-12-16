@@ -1,0 +1,40 @@
+%p#notice= notice
+
+%p
+  %b User:
+  = @item.user_id
+%p
+  %b Categorization:
+  = @item.category_id
+%p
+  %b Title:
+  = @item.title
+%p
+  %b Source:
+  = @item.source_url
+%p
+  %b Image_url
+  - image = @item.image_url
+  %img{src: image}
+%p
+  %b Price:
+  = currency(@item.price)
+%p
+  %b Sale Price:
+  = currency(@item.sale_price)
+%p
+  %b Required Price:
+  = currency(@item.required_price)
+%p
+  %b Size:
+  = @item.size
+%p
+  %b Color:
+  = @item.color
+%p
+  %b Notes:
+  = @item.notes
+
+= link_to 'Edit', edit_item_path(@item)
+\|
+= link_to 'Back', items_path

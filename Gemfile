@@ -20,6 +20,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'mechanize'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
@@ -32,8 +33,10 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+# gem "has_secure_password", "~> 0.1.0"
+
 # Use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.1.2'
+gem 'bcrypt-ruby', '~> 3.1.2'
 
 # Use unicorn as the app server
 # gem 'unicorn'
@@ -53,6 +56,9 @@ group :development, :test do
   gem "jasmine"
   gem "pry-rails"
   gem "awesome_print"
+  gem 'guard-sass', require: false
+  gem 'guard-livereload', require: false
+  gem 'rails_layout'
 end
 
 group :development do

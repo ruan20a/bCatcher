@@ -30,6 +30,15 @@ BCatcher::Application.configure do
   # The :test delivery method accumulates sent emails in the
   # ActionMailer::Base.deliveries array.
   config.action_mailer.delivery_method = :test
+  config.action_mailer.smtp_settings = {
+  :address => "smtp.gmail.com",
+  :port => 587,
+  :domain => "www.gmail.com",
+  :user_name => "pricecatcher1@gmail.com",
+  :password => "forever924",
+  :authentication => "plain",
+  :enable_starttls_auto => true
+  }
 
   # Print deprecation notices to the stderr.
   config.active_support.deprecation = :stderr

@@ -1,14 +1,46 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>BCatcher</title>
-  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+  	<meta charset="utf-8" />
 
-<%= yield %>
+  	<!-- Uncomment to make IE8 render like IE7 -->
+  	<!-- <meta http-equiv="X-UA-Compatible" content="IE=7" /> -->
 
-</body>
+  	<title><%= content_for?(:title) ? yield(:title) : "Untitled" %></title>
+
+  	<%= stylesheet_link_tag "application"%>
+    <%= csrf_meta_tags %>
+  </head>
+
+  <body>
+  <div class="wrapper">
+    <div class="row" style="padding-bottom: 1%;">
+
+      <div class="col-md-6">
+        <section class="brand-name"><%= link_to '', "/users/#{session[:user_id]}" %>CATCHER</section>
+      </div>
+
+      <div class="col-md-6">
+        <nav align="right">
+          <% if session[:user_id] %>
+          <% @user = User.find(session[:user_id]) %>
+          logged in as <%= link_to(@user.email, "/users/#{@user.id}")  %> | <%= link_to('Log out', '/logout') %>
+          <% else %>
+          <%= link_to('Join Catcher', '/users/new') %> | <%= link_to('Log In', '/login') %>
+          <% end %>
+        </nav>
+      </div>
+    </div>
+
+
+    <%= yield %>
+
+
+    <%= javascript_include_tag "application" %>
+  </body>
 </html>
