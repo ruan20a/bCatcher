@@ -65,7 +65,7 @@ body{
 
 .item-title{
   text-align: center;
-  padding: 0% 0 % 0%;
+  padding: 0% 0% 2% 0%;
 }
 
 .item-box{
@@ -79,9 +79,9 @@ body{
 
 #image-url{
   border: 1px solid RGB(38, 38, 38);
-  max-width: 100px;
+  max-width: 150px;
   max-height: 200px;
-  margin-left: 33%;
+  margin-left: 25%;
 }
 
 .my-item{
@@ -89,7 +89,7 @@ body{
   display:inline;
   padding: 1%;
   background-color: #FFDB5C;
-  height: 350px;
+  height: 400px;
   box-shadow:2px 3px 5px #999;
 }
 
