@@ -1,8 +1,22 @@
-Hello, <%= @user.name %>
+<h1> Hello <%= @user.name.titleize %>, </h1>
 
-<%= @item.price %> is currently on sale for the price you want at <%= @item.required_price %>
+<div> <strong> <%= @item.title %>'s </strong> current price is <strong> <%= number_to_currency(@item.current_price) %> </strong> and meets your minimum price requirement of <strong> <%= number_to_currency(@item.required_price) %> </strong>
+</div>
 
+<br>
 
+<img src= <%=@item.image_url%> style="width: 100px; height: 200px">
 
+<br>
+
+<div>
+If you want to buy this item, just follow this link: <%= link_to @item.title, @url %>.
+</div>
+
+<br>
+
+<div>
 Thanks,
-Price Catcher
+<br>
+Catcher
+</div>

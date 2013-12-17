@@ -1,43 +1,50 @@
-%p#notice= notice
-#my-item
-- @user.items.each do |item|
-  .item-name
-    = item.title
-  .item-email
-    %b Category:
-    = item.category["name"]
-  .item-image
-    - image = item.image_url
-    %img#image-url{src: image}
-  .item-price
-    %b Price:
-    = currency(item.price)
-  .item-sale-price
-    %b Sale Price:
-    = currency(item.sale_price)
-  .item-required-price
-    %b Required Price:
-    = currency(item.required_price)
-  .item-size
-    %b Size:
-    = item.size
-  .item-color
-    %b Color:
-    = item.color
-  .item-notes
-    %b Notes:
-    = item.notes
-  .item-change
-    %b change:
-    = item.is_change
-  .item-private
-    %b private:
-    = item.is_private
-  .item-buttons
-    = button_to "Edit", edit_item_path(item), :method => :get
-    = button_to "Delete", item_path(item), :method => :delete
 
+.container
 
-= link_to 'Edit', edit_user_path(@user)
-\|
-= link_to 'Back', users_path
+  %p#notice= notice
+
+  /TODO need to fix
+  .sixteen.columns.add
+    = link_to 'Add New Item', new_item_path, :class => "sixteen columns add"
+
+  - @user.items.each do |item|
+    .five.columns.my-item
+      .item-title
+        = item.title
+        - image = item.image_url
+        - source = item.source_url
+      %a{href: source}
+        %img#image-url{src: image}
+      .item-box
+        .item-price.box
+          %b Original Price:
+          = currency(item.price)
+        -if item.price != item.current_price
+          .item-current-price.box
+            %b Current Price:
+            = currency(item.current_price)
+        .item-required-price.box
+          %b Required Price:
+          = currency(item.required_price)
+        -if item.size != ""
+          .item-size.box
+            %b Size:
+            = item.size
+        -if item.color != ""
+          .item-color.box
+            %b Color:
+            = item.color
+        -if item.notes != ""
+          .item-notes.box
+            %b Notes:
+            = item.notes
+      /TODO need to fix buttons
+      = button_to "Edit", edit_item_path(item), :method => :get, :class => "btn"
+      = button_to "Delete", item_path(item), :method => :delete, :class => "btn"
+
+  <br>
+
+  / \|
+  / = link_to 'Edit User', edit_user_path(@user)
+  / \|
+  / = link_to 'Back', users_path

@@ -1,9 +1,10 @@
 class UpdateMailer < ActionMailer::Base
-  default from: "pricecatcher1@gmail.com"
+  default from: "Catcher <pricecatcher1@gmail.com>"
   def update_price(user, item)
     @user = user
     @item = item
-    mail :to => @user.email, :subject => "#{@item.price} now matches your #{@item.required_price}"
+    @url = @item.source_url
+    mail :to => @user.email, :subject => "#{@item.title} meets your price requirements!"
   end
 end
 

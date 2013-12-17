@@ -6,15 +6,13 @@
         - @item.errors.full_messages.each do |msg|
           %li= msg
 
-          = f.hidden_field :customer_id, value: @customer.id
-
-  / .field
-  /   = f.label :user_id
-  /   = f.number_field :user_id, value: @user_id
-  %img#image-url{src: @item.image_url}
+  %a{href: @item.source_url}
+    %img#image-url{src: @item.image_url}
   - arr = []
   - for category in @categories
     - arr << [category.name, category.id]
+  .field
+    = f.hidden_field :user_id, value: @user_id
   .field
     = f.label :category_id
     %br
@@ -23,17 +21,14 @@
     = f.label :title
     %br
     = f.text_field :title
-  / .field
-  /   = f.label :source_url
-  /   = f.text_field :source_url
   .field
     = f.label :price
     %br
     = f.text_field :price
   .field
-    = f.label :sale_price
+    = f.label :current_price
     %br
-    = f.text_field :sale_price
+    = f.text_field :current_price
   .field
     = f.label :required_price
     %br

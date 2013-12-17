@@ -47,7 +47,7 @@ class ItemsController < ApplicationController
   def update
     respond_to do |format|
       if @item.update(item_params)
-        check_price
+        @item.compare_price
         format.html { redirect_to @item, notice: 'Item was successfully updated.' }
         format.json { head :no_content }
       else
@@ -76,7 +76,10 @@ class ItemsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def item_params
-      params.require(:item).permit(:user_id, :category_id, :title, :price, :size, :color, :is_changed, :is_private, :notes, :image_url, :required_price, :sale_price, :source_url)
+      params.require(:item).permit(:user_id, :category_id, :title, :price, :size, :color, :is_changed, :is_private, :notes, :image_url, :required_price, :current_price, :source_url, :is_change)
+      # binding.pry
+      #TODO STRINGIFY KEYS ISSUE
+      # params[:item][:price].gsub(/[^0-9.]/, '')
     end
 
     def correct_user
@@ -89,9 +92,9 @@ class ItemsController < ApplicationController
     end
 
     def check_price
-      if @item.price == @item.required_price
+      if @item.current_price <= @item.required_price
         UpdateMailer.update_price(@item.user, @item).deliver
-      else if @item.sale_price == @item.required_price
+      elsif @item.sale_price <= @item.required_price
         UpdateMailer.update_price(@item.user, @item).deliver
       end
     end

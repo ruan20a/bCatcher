@@ -83,10 +83,12 @@ BCatcher::Application.configure do
   :address => "smtp.gmail.com",
   :port => 587,
   :domain => "www.gmail.com",
-  :user_name => "pricecatcher1@gmail.com",
-  :password => "forever924",
+  :user_name => ENV['CATCHER_USERNAME'],
+  :password => ENV['CATCHER_PASSWORD'],
   :authentication => "plain",
   :enable_starttls_auto => true
   }
   config.action_mailer.default_url_options = { :host => 'portal.herokuapp.com' }
 
+
+end

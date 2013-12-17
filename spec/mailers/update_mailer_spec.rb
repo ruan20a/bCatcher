@@ -7,7 +7,7 @@ describe UpdateMailer do
     ActionMailer::Base.deliveries = []
 
     @user = User.create({"name" => "amy", "email" => "amy2@gmail.com", "password" => "hahah", "password_confirmation" => "hahah"})
-    @item = Item.create({"user_id" => @user.id, "price" => 200.00, "required_price" => 200.00})
+    @item = Item.create({"user_id" => @user.id, "title" => "Happy", "price" => 200.00, "current_price" => 200.00, "required_price" => 200.00})
     UpdateMailer.update_price(@user, @item).deliver
   end
 
@@ -24,11 +24,15 @@ describe UpdateMailer do
   end
 
   it 'should set the subject to the correct subject' do
-    ActionMailer::Base.deliveries.first.subject.should == "#{@item.price} now matches your #{@item.required_price}"
+    ActionMailer::Base.deliveries.first.subject.should == "#{@item.title} now matches your price requirements"
   end
 
   it "renders the sender email" do
     ActionMailer::Base.deliveries.first.from.should == ['pricecatcher1@gmail.com']
+  end
+
+  it "renders the correct body" do
+    ActionMailer::Base.deliveries.first.body.should include "Happy current price is $200.00 and meets your minimum price requirement of $200.00"
   end
 
 end
