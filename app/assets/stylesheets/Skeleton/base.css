@@ -62,18 +62,20 @@ body{
   float: left;
 }
 /*item related*/
-.item-box{
-  text-align: center;
-  padding: 4% 0 1% 0;
+.show-box{
+  line-height: 1.5em;
+  margin: 3% 0% 1% 0;
+  float: right;
 }
 
-.box{
-  line-height: 1.5em;
+.item-box .box{
+  padding: 4% 0% 1% 1%;
+  line-height: 1.25em;
+  text-align: center;
   vertical-align: center;
 }
 
 .item-current-price{
-  text-align: center;
   color: red;
 }
 
@@ -89,6 +91,13 @@ body{
   margin: 3% 0 1% 25%;
 }
 
+#image-url-show{
+  border: 1px solid RGB(191, 191, 191);
+  max-width: 200px;
+  max-height: 300px;
+  float: left;
+  margin: 3% 0 1% 0;
+}
 
 .my-item{
   word-wrap:break-word;
@@ -97,7 +106,7 @@ body{
   margin: 1%;
   padding: 1%;
   background-color: #FFDB5C;
-  height: 380px;
+  height: 330px;
   box-shadow:2px 3px 5px #999;
 }
 
@@ -121,13 +130,12 @@ textarea {
 
 .button_to {
   display: inline-block;
-  width: 20%;
-  padding: 10% 0% 0 20%;
 }
 
 .btn {
   display: inline;
   padding: 6px 12px;
+  width: 70px;
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
@@ -198,8 +206,6 @@ fieldset[disabled] .btn {
 .open .dropdown-toggle.btn-default {
   background-image: none;
 }
-
-
 /* #Links
 ================================================== */
   a:link {color: hsla(34, 74%, 48%, 0.87)}      /* unvisited link */

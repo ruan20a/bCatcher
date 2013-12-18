@@ -7560,3 +7560,541 @@ rake aborted!
 /Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
 /Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
 (See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:21: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:24: syntax error, unexpected '}', expecting keyword_end
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:27: syntax error, unexpected '{', expecting keyword_then or ';' or '\n'
+/Users/Amy/ga_wdi/Project_3/bCatcher/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+rake aborted!
+FATAL:  database "bCatcher_production" does not exist
+/Users/Amy/ga_wdi/Project_3/bCatcher/lib/tasks/price.rake:12:in `block (2 levels) in <top (required)>'
+Tasks: TOP => price:check
+(See full trace by running task with --trace)

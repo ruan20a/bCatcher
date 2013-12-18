@@ -2,40 +2,42 @@
 
   %p#notice= notice
 
-  .six.columns.offset-by-three
-    .item-title
-    = @item.title
-    %a{href: @item.source_url}
-      %img#image-url{src: @item.image_url}
-    / %p
-    /   %b User:
-    /   = @item.user_id
-    .item-box
-      -if !@item.category.blank? && !@item.category.nil?
-        .item-category.box
-          %b Category:
-          = @item.category.name
-      .item-original_price.box
-        %b Original Price:
-        = currency(@item.price)
-      - if @item.price != @item.current_price
-        .item-current-price.box
-          %b Current Price:
-          = currency(@item.current_price)
-      .item-required-price.box
-        %b Required Price:
-        = currency(@item.required_price)
-      -if !@item.size.blank? && !@item.size.nil?
-        .item-size.box
-          %b Size:
-          = @item.size
-      -if !@item.color.blank? && !@item.color.nil?
-        .item-color.box
-          %b Color:
-          = @item.color
-      -if !@item.notes.blank? && !@item.notes.nil?
-        .item-notes.box
-          %b Notes:
-          = @item.notes
-    = button_to 'Back', edit_item_path(@item), :method => :get, class: 'btn'
-    = button_to 'Add', user_path(@item.user), :method => :get, class: 'btn'
+  .seven.columns.offset-by-three
+    .show-item
+      .item-title
+      = @item.title
+      %br
+      %a{href: @item.source_url}
+        %img#image-url-show{src: @item.image_url}
+      / %p
+      /   %b User:
+      /   = @item.user_id
+      .show-box
+        -if !@item.category.blank? && !@item.category.nil?
+          .item-category
+            %b Category:
+            = @item.category.name
+        .item-original_price
+          %b Original Price:
+          = currency(@item.price)
+        - if @item.price != @item.current_price
+          .item-current-price
+            %b Current Price:
+            = currency(@item.current_price)
+        .item-required-price
+          %b Required Price:
+          = currency(@item.required_price)
+        -if !@item.size.blank? && !@item.size.nil?
+          .item-size
+            %b Size:
+            = @item.size
+        -if !@item.color.blank? && !@item.color.nil?
+          .item-color
+            %b Color:
+            = @item.color
+        -if !@item.notes.blank? && !@item.notes.nil?
+          .item-notes
+            %b Notes:
+            = @item.notes
+        = button_to 'Edit', edit_item_path(@item),:method => :get, class: 'btn'
+        = button_to 'Delete', item_path(@item),:method => :delete, class: 'btn'

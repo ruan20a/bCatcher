@@ -26,10 +26,6 @@
         .item-required-price.box
           %b Required Price:
           = currency(item.required_price)
-      /TODO need to fix buttons
-      = button_to "Edit", edit_item_path(item), :method => :get, :class => "btn"
-      = button_to "Delete", item_path(item), :method => :delete, :class => "btn"
-
   <br>
 
   / \|

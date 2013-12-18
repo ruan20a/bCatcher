@@ -18,15 +18,15 @@ namespace :price do
       size = item.sizes
       color = item.color
 
-      if (!size.nil?){
-        current_size = doc.at_css("span[itemprop=price]").text[/[0-9\.]+/]
-        status_check = true
-      }
+      # if (!size.nil?){
+      #   current_size = doc.at_css("span[itemprop=price]").text[/[0-9\.]+/]
+      #   status_check = true
+      # }
 
 
-      if (!size.color?){
+      # if (!size.color?){
 
-      }
+      # }
 
 
       current_price = doc.at_css("span[itemprop=price]").text[/[0-9\.]+/]
