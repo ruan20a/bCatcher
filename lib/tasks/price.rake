@@ -15,7 +15,7 @@ namespace :price do
       status_check = false
       before_price = item.price
       before__price = item.current_price
-      size = item.sizes
+      size = item.size
       color = item.color
 
       current_price = doc.at_css("span[itemprop=price]").text[/[0-9\.]+/]
@@ -26,7 +26,7 @@ namespace :price do
 
   end
 
-  task :all => [:update_price, :check_price]
+  # task :all => [:update_price, :check_price]
 
   # def pick(model_class)
   #   model_class.find(:first, :order => 'RAND(')
