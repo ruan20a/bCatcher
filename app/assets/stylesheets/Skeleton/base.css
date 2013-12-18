@@ -212,7 +212,7 @@ fieldset[disabled] .btn {
   a:visited {color: hsla(199, 32%, 48%, 0.87);}  /* visited link */
   a:hover {color: hsla(34, 74%, 48%, 0.87)}  /* mouse over link */
   a:active {color: hsla(199, 32%, 48%, 0.87)}  /* selected link */
-
+  nav {float: right;}
 
 /* #Misc
 ================================================== */

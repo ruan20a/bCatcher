@@ -1,32 +1,28 @@
+%p#notice= notice
 
-.container
+/TODO need to fix
+.sixteen.columns.add
+  = link_to 'Add New Item', new_item_path, :class => "sixteen columns add"
 
-  %p#notice= notice
-
-  /TODO need to fix
-  .sixteen.columns.add
-    = link_to 'Add New Item', new_item_path, :class => "sixteen columns add"
-
-  - @user.items.each do |item|
-    .five.columns.my-item
-      .item-title
-        = item.title
-        - image = item.image_url
-        - source = item.source_url
-      %a{href: source}
-        %img#image-url{src: image}
-      .item-box
-        .item-price.box
-          %b Original Price:
-          = currency(item.price)
-        -if item.price != item.current_price
-          .item-current-price.box
-            %b Current Price:
-            = currency(item.current_price)
-        .item-required-price.box
-          %b Required Price:
-          = currency(item.required_price)
-  <br>
+- @user.items.each do |item|
+  .five.columns.my-item
+    .item-title
+      = item.title
+      - image = item.image_url
+      - source = item.source_url
+    %a{href: source}
+      %img#image-url{src: image}
+    .item-box
+      .item-price.box
+        %b Original Price:
+        = currency(item.price)
+      -if item.price != item.current_price
+        .item-current-price.box
+          %b Current Price:
+          = currency(item.current_price)
+      .item-required-price.box
+        %b Required Price:
+        = currency(item.required_price)
 
   / \|
   / = link_to 'Edit User', edit_user_path(@user)
