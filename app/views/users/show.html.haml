@@ -26,18 +26,6 @@
         .item-required-price.box
           %b Required Price:
           = currency(item.required_price)
-        -if item.size != ""
-          .item-size.box
-            %b Size:
-            = item.size
-        -if item.color != ""
-          .item-color.box
-            %b Color:
-            = item.color
-        -if item.notes != ""
-          .item-notes.box
-            %b Notes:
-            = item.notes
       /TODO need to fix buttons
       = button_to "Edit", edit_item_path(item), :method => :get, :class => "btn"
       = button_to "Delete", item_path(item), :method => :delete, :class => "btn"

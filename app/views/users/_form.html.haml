@@ -5,14 +5,18 @@
       %ul
         - @user.errors.full_messages.each do |msg|
           %li= msg
-
+  %br
   .field
-    = f.text_field :name, :placeholder => 'Name'
+    = f.text_field :name, :placeholder => 'Name', class: 'form-control'
+  %br
   .field
-    = f.text_field :email, :placeholder => 'Email'
+    = f.text_field :email, :placeholder => 'Email', class: 'form-control'
+  %br
   .field
-    = f.password_field :password, :placeholder => 'Password'
+    = f.password_field :password, :placeholder => 'Password', class: 'form-control'
+  %br
   .field
-    = f.password_field :password_confirmation, :placeholder => 'Password Confirmation'
+    = f.password_field :password_confirmation, :placeholder => 'Password Confirmation', class: 'form-control'
+  %br
   .actions
-    = f.submit 'Save'
+    = f.submit 'Submit', class: 'btn'

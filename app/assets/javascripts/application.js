@@ -17,5 +17,6 @@
 //= require handlebars
 //= require underscore
 //= require backbone
+//= require isotope
 //= require app
 
