@@ -1,4 +1,4 @@
-.eight.columns
+.twelve.columns.offset-by-two
   = form_for @item do |f|
     - if @item.errors.any?
       #error_explanation
@@ -6,54 +6,55 @@
         %ul
           - @item.errors.full_messages.each do |msg|
             %li= msg
-
-    %a{href: @item.source_url}
-      %img#image-url{src: @item.image_url}
     - arr = []
-    - for category in @categories
-      - arr << [category.name, category.id]
-    .field
-      = f.hidden_field :user_id, value: @user_id
-    .field
-      = f.label :category_id
-      %br
-      = f.select :category_id, arr, selected: @item.category
-    .field
-      = f.label :title
-      %br
-      = f.text_field :title, class: 'form-control'
-    .field
-      = f.label :source_url
-      %br
-      = f.text_field :source_url, class: 'form-control'
-    .field
-      = f.label :image_url
-      %br
-      = f.text_field :image_url, class: 'form-control'
-    .field
-      = f.label :price
-      %br
-      = f.text_field :price, class: 'form-control'
-    .field
-      = f.label :current_price
-      %br
-      = f.text_field :current_price, class: 'form-control'
-    .field
-      = f.label :required_price
-      %br
-      = f.text_field :required_price, class: 'form-control'
-    .field
-      = f.label :size
-      %br
-      = f.text_field :size, class: 'form-control'
-    .field
-      = f.label :color
-      %br
-      = f.text_field :color, class: 'form-control'
-    .field
-      = f.label :notes
-      %br
-      = f.text_area :notes, class: 'form-control'
-      %br
-    .actions
-      = f.submit 'Save', class: 'btn'
+    - if !@item.image_url.nil?
+      .five.columns
+        %img.url#image-show{src: @item.image_url}
+    .six.columns.show-box
+      - for category in @categories
+        - arr << [category.name, category.id]
+      .field
+        = f.hidden_field :user_id, value: @user_id
+      .field
+        = f.label :category_id
+        %br
+        = f.select :category_id, arr, selected: @item.category
+      .field
+        = f.label :title
+        %br
+        = f.text_field :title, class: 'form-control'
+      .field
+        = f.label :source_url
+        %br
+        = f.text_field :source_url, class: 'form-control'
+      .field
+        = f.label :image_url
+        %br
+        = f.text_field :image_url, class: 'form-control'
+      .field
+        = f.label :price
+        %br
+        = f.text_field :price, class: 'form-control'
+      .field
+        = f.label :current_price
+        %br
+        = f.text_field :current_price, class: 'form-control'
+      .field
+        = f.label :required_price
+        %br
+        = f.text_field :required_price, class: 'form-control'
+      .field
+        = f.label :size
+        %br
+        = f.text_field :size, class: 'form-control'
+      .field
+        = f.label :color
+        %br
+        = f.text_field :color, class: 'form-control'
+      .field
+        = f.label :notes
+        %br
+        = f.text_area :notes, class: 'form-control'
+        %br
+      .actions
+        = f.submit 'Save', class: 'btn'

@@ -1,43 +1,43 @@
-.container
-
+.twelve.columns.offset-by-two
   %p#notice= notice
+  %br
+  .show-item
+    .item-title
+    = @item.title
 
-  .seven.columns.offset-by-three
-    .show-item
-      .item-title
-      = @item.title
-      %br
-      %a{href: @item.source_url}
-        %img#image-url-show{src: @item.image_url}
-      / %p
-      /   %b User:
-      /   = @item.user_id
-      .show-box
-        -if !@item.category.blank? && !@item.category.nil?
-          .item-category
-            %b Category:
-            = @item.category.name
-        .item-original_price
-          %b Original Price:
-          = currency(@item.price)
-        - if @item.price != @item.current_price
-          .item-current-price
-            %b Current Price:
-            = currency(@item.current_price)
-        .item-required-price
-          %b Required Price:
-          = currency(@item.required_price)
-        -if !@item.size.blank? && !@item.size.nil?
-          .item-size
-            %b Size:
-            = @item.size
-        -if !@item.color.blank? && !@item.color.nil?
-          .item-color
-            %b Color:
-            = @item.color
-        -if !@item.notes.blank? && !@item.notes.nil?
-          .item-notes
-            %b Notes:
-            = @item.notes
-        = button_to 'Edit', edit_item_path(@item),:method => :get, class: 'btn'
-        = button_to 'Delete', item_path(@item),:method => :delete, class: 'btn'
+    %br
+    .six.columns
+      %img.url#image-show{src: @item.image_url}
+    / %p
+    /   %b User:
+    /   = @item.user_id
+    .five.columns.show-box
+      -if !@item.category.blank? && !@item.category.nil?
+        .item-category
+          %b Category:
+          = @item.category.name
+      .item-original_price
+        %b Original Price:
+        = currency(@item.price)
+      - if @item.price != @item.current_price
+        .item-current-price
+          %b Current Price:
+          = currency(@item.current_price)
+      .item-required-price
+        %b Required Price:
+        = currency(@item.required_price)
+      -if !@item.size.blank? && !@item.size.nil?
+        .item-size
+          %b Size:
+          = @item.size
+      -if !@item.color.blank? && !@item.color.nil?
+        .item-color
+          %b Color:
+          = @item.color
+      -if !@item.notes.blank? && !@item.notes.nil?
+        .item-notes
+          %b Notes:
+          = @item.notes
+
+      = button_to 'Edit', edit_item_path(@item),:method => :get, class: 'btn'
+      = button_to 'Delete', item_path(@item),:method => :delete, class: 'btn'

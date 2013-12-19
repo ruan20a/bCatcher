@@ -1,28 +1,33 @@
 %p#notice= notice
-
+%br
 /TODO need to fix
 .sixteen.columns.add
   = link_to 'Add New Item', new_item_path, :class => "sixteen columns add"
 
 - @user.items.each do |item|
-  .five.columns.my-item
+
+  .five.columns.my-item{:id => item.id}
+    - image = item.image_url
+    - source = item.source_url
+    %a{href: source}
+      %img.url#image-user{src: image}
     .item-title
       = item.title
-      - image = item.image_url
-      - source = item.source_url
-    %a{href: source}
-      %img#image-url{src: image}
     .item-box
-      .item-price.box
-        %b Original Price:
-        = currency(item.price)
-      -if item.price != item.current_price
-        .item-current-price.box
-          %b Current Price:
-          = currency(item.current_price)
+      / -if item.price != item.current_price
+      /   .item-price.box
+      /     %b Original
+      /     = currency(item.price)
+      .item-current-price.box
+        %b Current:
+        = currency(item.current_price)
       .item-required-price.box
-        %b Required Price:
+        %b Required:
         = currency(item.required_price)
+      -if item.current_price <= item.required_price
+        #alert-tag
+          Good Buy!
+
 
   / \|
   / = link_to 'Edit User', edit_user_path(@user)
