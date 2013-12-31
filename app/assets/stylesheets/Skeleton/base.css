@@ -99,6 +99,10 @@ body{
   color: green;
 }
 
+.url{
+  width: 100%;
+}
+
 .url#image-user{
   border: 1px solid RGB(191, 191, 191);
   width: 100%;
