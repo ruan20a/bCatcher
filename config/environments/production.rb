@@ -90,6 +90,6 @@ BCatcher::Application.configure do
   :enable_starttls_auto => true
   }
   config.action_mailer.default_url_options = { :host => 'portal.herokuapp.com' }
-
+  config.action_mailer.raise_delivery_errors = true
 
 end
