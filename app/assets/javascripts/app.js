@@ -14,7 +14,12 @@ Item.siteSource = function(e){
   return false;
 }
 
+Item.redirect = function(e){
+  window.open('https://chrome.google.com/webstore/detail/bcatcher/geihceklicaflemdjjdhiepfpihklhno');
+}
+
 $(document).ready(function(){
   $('.my-item').on("click", Item.show);
-  $('.url').on("click, Item.siteSource")
+  $('.url').on("click", Item.siteSource);
+  $('#downloadbtn').on("click", Item.redirect);
 })
